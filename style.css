@@ -24,6 +24,10 @@ h2 {
 
 .skills-item {
   margin-bottom: 15px;
+  /* Добавьте свойства сюда */
+  padding-left: 20px;
+  border-left: 10px solid #c4c4c4;
+  color: #999999
 }
 
 .container {
