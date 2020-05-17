@@ -36,6 +36,12 @@ h2 {
   color: #666666;
   }
 
+  /* Добавьте правило для класса vip сюда */
+.vip {
+  border-color: #ff5a26;
+  color: #000000;
+  }
+
 .container {
   width: 480px;
   margin: 0 auto;
